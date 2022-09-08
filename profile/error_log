@@ -1,0 +1,6 @@
+[24-Aug-2018 23:02:46 UTC] PHP Fatal error:  Call to a member function selectOne() on null in /home/liberato/public_html/profile/index.php on line 195
+[24-Aug-2018 23:04:30 UTC] PHP Fatal error:  Call to a member function selectOne() on null in /home/liberato/public_html/profile/index.php on line 195
+[24-Aug-2018 23:05:44 UTC] PHP Fatal error:  Call to a member function selectOne() on null in /home/liberato/public_html/profile/index.php on line 195
+[24-Aug-2018 23:09:34 UTC] PHP Fatal error:  Call to a member function selectOne() on null in /home/liberato/public_html/profile/index.php on line 195
+[24-Aug-2018 23:16:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/liberato/public_html/profile/index.php on line 229
+[25-Aug-2018 21:42:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/liberato/public_html/profile/index.php on line 229

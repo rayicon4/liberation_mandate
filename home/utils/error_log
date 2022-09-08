@@ -1,0 +1,586 @@
+[25-Aug-2018 16:57:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/liberato/public_html/connect/connect.php:1124) in /home/liberato/public_html/home/utils/raffle.php on line 30
+[25-Aug-2018 17:21:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/liberato/public_html/connect/connect.php:1124) in /home/liberato/public_html/home/utils/raffle.php on line 30
+[18-Jun-2019 11:52:46 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[18-Jun-2019 11:53:11 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[19-Jun-2019 21:24:17 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[26-Jun-2019 06:03:16 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[06-Jul-2019 20:45:21 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[07-Jul-2019 07:31:41 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[09-Jul-2019 13:00:28 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[11-Jul-2019 08:57:47 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[12-Jul-2019 08:08:00 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[02-Aug-2019 09:48:42 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[04-Aug-2019 00:28:29 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[04-Aug-2019 02:52:50 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[04-Aug-2019 11:32:18 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[06-Aug-2019 10:16:36 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[06-Aug-2019 12:53:39 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[06-Aug-2019 17:23:53 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[06-Aug-2019 18:29:58 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[06-Aug-2019 18:30:04 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[07-Aug-2019 10:25:11 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[08-Aug-2019 12:21:31 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[08-Aug-2019 14:52:21 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[08-Aug-2019 22:52:29 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[09-Aug-2019 14:55:54 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[09-Aug-2019 16:17:00 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[10-Aug-2019 15:04:49 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[11-Aug-2019 15:10:17 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[12-Aug-2019 15:13:49 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[14-Aug-2019 18:43:36 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[14-Aug-2019 18:44:39 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[14-Aug-2019 18:47:32 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[17-Aug-2019 15:47:43 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[17-Aug-2019 15:47:56 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[24-Aug-2019 02:54:59 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[24-Aug-2019 02:55:00 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[29-Aug-2019 07:56:13 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[29-Aug-2019 11:06:47 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[01-Sep-2019 13:34:51 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[02-Sep-2019 02:21:53 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[08-Sep-2019 02:51:01 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[10-Sep-2019 08:49:38 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[11-Sep-2019 14:25:54 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[11-Sep-2019 14:26:00 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[15-Sep-2019 09:39:35 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[18-Sep-2019 01:26:51 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[19-Sep-2019 20:37:54 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[23-Sep-2019 19:48:08 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[02-Oct-2019 09:01:41 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[03-Oct-2019 08:49:29 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[10-Oct-2019 08:09:23 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[13-Oct-2019 01:04:08 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[23-Oct-2019 01:12:17 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[28-Oct-2019 04:03:18 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[31-Oct-2019 23:08:03 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[07-Nov-2019 09:54:24 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[07-Nov-2019 20:26:24 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[13-Nov-2019 12:45:05 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[23-Nov-2019 01:02:49 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[23-Nov-2019 10:49:02 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[02-Dec-2019 13:08:18 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[04-Dec-2019 22:22:21 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[07-Dec-2019 08:17:33 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[09-Dec-2019 11:32:20 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[09-Dec-2019 17:21:35 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[19-Dec-2019 08:22:17 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[27-Dec-2019 01:21:48 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[27-Dec-2019 01:21:51 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[27-Dec-2019 01:28:37 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[27-Dec-2019 01:28:40 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[27-Dec-2019 01:32:32 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[27-Dec-2019 01:32:35 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[08-Jan-2020 09:38:59 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[19-Jan-2020 15:43:40 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[31-Jan-2020 13:27:41 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 462
+[21-Feb-2020 07:52:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[22-Feb-2020 00:06:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[22-Feb-2020 12:39:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[23-Feb-2020 11:39:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[28-Feb-2020 05:42:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[29-Feb-2020 00:50:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[29-Feb-2020 02:41:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[02-Mar-2020 00:06:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[05-Mar-2020 00:09:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[08-Mar-2020 00:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[22-Mar-2020 16:20:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[03-Apr-2020 16:38:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[06-Apr-2020 04:07:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[17-Apr-2020 08:40:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[24-Apr-2020 18:38:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[02-May-2020 02:11:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[09-May-2020 20:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[10-May-2020 05:59:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[21-May-2020 19:09:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[24-May-2020 13:44:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[25-May-2020 05:32:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[01-Jun-2020 00:53:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[09-Jun-2020 05:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[26-Jun-2020 10:25:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[28-Jun-2020 16:15:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[06-Jul-2020 22:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[06-Jul-2020 22:50:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[07-Jul-2020 00:19:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[09-Jul-2020 06:37:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[09-Jul-2020 11:55:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[11-Jul-2020 03:11:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[11-Jul-2020 07:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[11-Jul-2020 18:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[13-Jul-2020 07:15:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[13-Jul-2020 07:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[13-Jul-2020 21:55:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[13-Jul-2020 21:55:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[18-Jul-2020 12:22:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[19-Jul-2020 10:21:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[24-Jul-2020 09:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[25-Jul-2020 10:21:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[26-Jul-2020 08:23:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[27-Jul-2020 00:12:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[27-Jul-2020 16:33:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[03-Aug-2020 21:59:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[06-Aug-2020 10:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[07-Aug-2020 03:12:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[13-Aug-2020 05:21:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[14-Aug-2020 22:08:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[20-Aug-2020 21:17:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[28-Aug-2020 14:43:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[31-Aug-2020 15:28:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[31-Aug-2020 15:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[03-Sep-2020 00:16:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[04-Sep-2020 07:58:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[09-Sep-2020 05:55:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[10-Sep-2020 11:29:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[10-Sep-2020 15:23:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[10-Sep-2020 17:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[11-Sep-2020 05:43:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[19-Sep-2020 05:42:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[30-Sep-2020 16:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[01-Oct-2020 12:36:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[01-Oct-2020 12:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[02-Oct-2020 00:15:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[05-Oct-2020 23:37:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[06-Oct-2020 04:24:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[06-Oct-2020 04:28:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[09-Oct-2020 19:20:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[09-Oct-2020 19:20:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[10-Oct-2020 04:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[16-Oct-2020 13:40:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[17-Oct-2020 21:21:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[27-Oct-2020 08:40:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[31-Oct-2020 13:09:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[06-Nov-2020 16:36:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[08-Nov-2020 23:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[14-Nov-2020 02:55:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[22-Nov-2020 15:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[25-Nov-2020 11:41:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[26-Nov-2020 12:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[26-Nov-2020 14:59:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[29-Nov-2020 07:52:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[29-Nov-2020 08:20:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[01-Dec-2020 15:20:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[04-Dec-2020 13:29:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[04-Dec-2020 13:32:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[04-Dec-2020 17:26:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[04-Dec-2020 20:12:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[04-Dec-2020 20:15:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[04-Dec-2020 20:17:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[04-Dec-2020 20:19:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[05-Dec-2020 07:10:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[07-Dec-2020 07:39:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[07-Dec-2020 17:15:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[08-Dec-2020 10:51:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[08-Dec-2020 13:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[08-Dec-2020 13:56:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[08-Dec-2020 13:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:398
+Stack trace:
+#0 /home/liberato/public_html/home/utils/login.php(16): DB->selectOne('clients', NULL, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 398
+[08-Dec-2020 14:08:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[09-Dec-2020 09:15:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/liberato/public_html/connect/connect.php:462
+Stack trace:
+#0 /home/liberato/public_html/home/utils/getLastTime.php(8): DB->selectTimeOne('raffles', NULL, Array, Array)
+#1 {main}
+  thrown in /home/liberato/public_html/connect/connect.php on line 462
+[16-Mar-2021 14:07:58 UTC] PHP Warning:  Use of undefined constant NILL - assumed 'NILL' (this will throw an Error in a future version of PHP) in /home/liberato/public_html/connect/sendmail.php on line 8
+[19-Mar-2021 17:21:04 UTC] PHP Warning:  Use of undefined constant NILL - assumed 'NILL' (this will throw an Error in a future version of PHP) in /home/liberato/public_html/connect/sendmail.php on line 8
+[07-May-2021 12:11:59 UTC] PHP Warning:  Use of undefined constant NILL - assumed 'NILL' (this will throw an Error in a future version of PHP) in /home/liberato/public_html/connect/sendmail.php on line 8
+[13-Aug-2021 09:56:02 UTC] PHP Warning:  Use of undefined constant NILL - assumed 'NILL' (this will throw an Error in a future version of PHP) in /home/liberato/public_html/connect/sendmail.php on line 30
+[29-Jun-2022 01:40:25 UTC] PHP Warning:  Use of undefined constant NILL - assumed 'NILL' (this will throw an Error in a future version of PHP) in /home/liberato/public_html/connect/sendmail.php on line 30
+[29-Jun-2022 01:41:34 UTC] PHP Warning:  Use of undefined constant NILL - assumed 'NILL' (this will throw an Error in a future version of PHP) in /home/liberato/public_html/connect/sendmail.php on line 30

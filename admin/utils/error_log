@@ -1,0 +1,1 @@
+[03-Oct-2019 20:36:39 UTC] PHP Fatal error:  Call to a member function query() on null in /home/liberato/public_html/connect/connect.php on line 259
